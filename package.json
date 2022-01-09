@@ -1,0 +1,21 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Create a contact aplication with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contact-app",
+    "contact-aplication",
+    "contact-app-node.js"
+  ],
+  "author": "Naufal Akbar Nugroho",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2",
+    "yargs": "^17.3.1"
+  }
+}
