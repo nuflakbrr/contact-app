@@ -2,8 +2,6 @@
 
 Create a simple Contact App with Node.js.
 
-<hr/>
-
 ## Feature
 
 - This application have 2 ways of use:
@@ -11,8 +9,6 @@ Create a simple Contact App with Node.js.
     - Run with custom command
 - Auto create folder `./data` if not exist.
 - Auto create file `./data/contact.json` if not exist.
-
-<hr/>
 
 ## Getting Started
 
@@ -27,8 +23,6 @@ Create a simple Contact App with Node.js.
 ```bash
     $ npm install
 ```
-
-<hr/>
 
 ## Commands
 
@@ -61,8 +55,6 @@ Create a simple Contact App with Node.js.
 ```bash
     $ node app delete --name=[name]
 ```
-
-<hr/>
 
 ## Authors
 
